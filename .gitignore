@@ -1,0 +1,57 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+.venv/
+venv/
+env/
+ENV/
+.python-version
+
+# Jupyter
+.ipynb_checkpoints/
+*.ipynb_checkpoints
+.jupyter/
+
+# Distribution / packaging
+build/
+dist/
+*.egg-info/
+*.egg
+.eggs/
+
+# Testing / coverage
+.pytest_cache/
+.coverage
+htmlcov/
+.tox/
+
+# IDEs
+.vscode/
+.idea/
+*.swp
+*.swo
+.DS_Store
+Thumbs.db
+
+# Data & models (keep repo lightweight)
+data/
+*.csv
+*.parquet
+*.pkl
+*.joblib
+*.model
+*.h5
+# (Exception: small reference datasets can be committed manually)
+
+# Secrets / env
+.env
+.env.local
+*.pem
+*.key
+
+# Logs
+*.log
+logs/
