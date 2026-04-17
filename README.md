@@ -1,6 +1,6 @@
 # Corporate Bankruptcy Prediction with Machine Learning
 
-> Master's Thesis (TFM) — MSc in Data Science, Big Data & Business Analytics, **Universidad Complutense de Madrid** (February 2026)
+> Final Thesis (TFM) — Master's Program in Data Science, Big Data & Business Analytics, **Universidad Complutense de Madrid** (February 2026)
 
 A machine learning pipeline that predicts corporate insolvency from 18 financial indicators, benchmarking **XGBoost**, **Logistic Regression** and **Linear Regression** on a dataset of **78,682 US companies (1999–2018)**.
 
@@ -147,7 +147,7 @@ The full written thesis (Spanish) is available here: [docs/TFM_Final.pdf](./docs
 ## 👤 Author
 
 **Diego José Zuniga López**
-MSc Data Science, Big Data & Business Analytics — Universidad Complutense de Madrid
+Master's Program in Data Science, Big Data & Business Analytics — Universidad Complutense de Madrid
 📍 Madrid, Spain
 🔗 [GitHub @zddm5](https://github.com/zddm5)
 

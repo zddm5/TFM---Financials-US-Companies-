@@ -1,6 +1,6 @@
 # Predicción de Quiebras Empresariales con Machine Learning
 
-> Trabajo Fin de Máster (TFM) — Máster en Data Science, Big Data & Business Analytics, **Universidad Complutense de Madrid** (Febrero 2026)
+> Trabajo Fin de Máster (TFM) — Programa de Máster en Data Science, Big Data & Business Analytics, **Universidad Complutense de Madrid** (Febrero 2026)
 
 Pipeline de machine learning que predice la insolvencia empresarial a partir de 18 indicadores financieros, comparando **XGBoost**, **Regresión Logística** y **Regresión Lineal** sobre un dataset de **78.682 empresas estadounidenses (1999–2018)**.
 
@@ -147,7 +147,7 @@ La memoria completa del TFM (en español) está disponible aquí: [docs/TFM_Fina
 ## 👤 Autor
 
 **Diego José Zuniga López**
-Máster en Data Science, Big Data & Business Analytics — Universidad Complutense de Madrid
+Programa de Máster en Data Science, Big Data & Business Analytics — Universidad Complutense de Madrid
 📍 Madrid, España
 🔗 [GitHub @zddm5](https://github.com/zddm5)
 
