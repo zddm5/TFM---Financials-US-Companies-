@@ -153,6 +153,8 @@ Programa de Máster en Data Science, Big Data & Business Analytics — Universid
 
 ---
 
-## 📜 Licencia
+## 📜 Copyright
 
-Este proyecto se publica bajo la Licencia MIT — ver [LICENSE](./LICENSE) para más detalles.
+© 2026 Diego José Zuniga López. **Todos los derechos reservados.**
+
+Este repositorio se comparte únicamente con fines de revisión de portfolio y educativos. Ninguna parte de este código, notebook o documento del TFM puede ser reproducida, distribuida, modificada ni utilizada con fines comerciales sin el permiso explícito por escrito del autor.

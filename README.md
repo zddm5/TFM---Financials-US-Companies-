@@ -153,6 +153,8 @@ Master's Program in Data Science, Big Data & Business Analytics — Universidad 
 
 ---
 
-## 📜 License
+## 📜 Copyright
 
-This project is released under the MIT License — see [LICENSE](./LICENSE) for details.
+© 2026 Diego José Zuniga López. **All rights reserved.**
+
+This repository is shared for portfolio review and educational purposes only. No part of this code, notebook, or thesis document may be reproduced, distributed, modified, or used for commercial purposes without the explicit written permission of the author.
