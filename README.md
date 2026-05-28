@@ -8,6 +8,24 @@ A machine learning pipeline that predicts corporate insolvency from 18 financial
 
 ---
 
+## 📈 Model Visuals
+
+### Model Comparison
+
+![Model Comparison](images/comparacion_modelos.png)
+
+### Model Performance Detail
+
+![Model Performance](images/desempeno_modelos.png)
+
+### Confusion Matrix — XGBoost (threshold = 0.5)
+
+> Given the 1:14 class imbalance, continuous probabilities are recommended over a fixed binary threshold for real-world credit decisions.
+
+![Confusion Matrix](images/matriz_confusion.png)
+
+---
+
 ## 📊 Key results
 
 | Model | ROC-AUC (Test) | Accuracy | Recall (Bankruptcy) |
