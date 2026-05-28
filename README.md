@@ -12,7 +12,7 @@ A machine learning pipeline that predicts corporate insolvency from 18 financial
 
 ### Model Comparison
 
-![Model Comparison](images/comparacion_modelos.png)
+![Model Comparison](images/Comparacion_de_Modelos.png)
 
 ### Model Performance Detail
 
