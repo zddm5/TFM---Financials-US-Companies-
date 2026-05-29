@@ -16,13 +16,13 @@ A machine learning pipeline that predicts corporate insolvency from 18 financial
 
 ### Model Performance Detail
 
-![Model Performance](images/Desempeno_modelos.png)
+![Model Performance](images/Desempeno_de_modelos.png)
 
 ### Confusion Matrix — XGBoost (threshold = 0.5)
 
 > Given the 1:14 class imbalance, continuous probabilities are recommended over a fixed binary threshold for real-world credit decisions.
 
-![Confusion Matrix](images/Matriz_confusion.png)
+![Confusion Matrix](images/Matriz_de_confusion.png)
 
 ---
 
