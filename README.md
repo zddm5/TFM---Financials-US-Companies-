@@ -8,24 +8,23 @@ A machine learning pipeline that predicts corporate insolvency from 18 financial
 
 ---
 
-## 📈 Model Visuals
+## 📈 Visualización de modelos
 
-### Model Comparison
+### Comparación de modelos
 
-![Model Comparison](images/Comparacion_de_Modelos.png)
+![Comparación de modelos](images/Comparacion_de_Modelos.png)
 
-### Model Performance Detail
+### Detalle del rendimiento del modelo
 
-![Model Performance](images/Desempeno_de_modelos.png)
+![Rendimiento del modelo](images/Desempeno_de_modelos.png)
 
-### Confusion Matrix — XGBoost (threshold = 0.5)
+### Matriz de confusión — XGBoost (umbral = 0,5)
 
-> Given the 1:14 class imbalance, continuous probabilities are recommended over a fixed binary threshold for real-world credit decisions.
+> Dado el desbalance de clases 1:14, para decisiones reales de crédito se recomiendan probabilidades continuas en lugar de un umbral binario fijo.
 
-![Confusion Matrix](images/Matriz_de_confusion.png)
+![Matriz de confusión](images/Matriz_de_confusion.png)
 
 ---
-
 ## 📊 Key results
 
 | Model | ROC-AUC (Test) | Accuracy | Recall (Bankruptcy) |
